@@ -7,5 +7,5 @@
   - Maximum wind base magnitude is 18 (vanilla max). Gust is not affected by this item.
 - You need to do a quest to get this item. Quest start at the NPC facing the Dead Cove bay beside original wind controller.
   - You can only finish this quest once.
-- Unlike original wind controller. After let go of the wind totem's orb, the wind will maintain the direction and wind speed for one minute before it game can change it.
+- Unlike original wind controller. After let go of the wind totem's orb, the wind will maintain the direction and wind speed for one minute before game can change it.
 - Light cannot be turned off. 
