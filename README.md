@@ -7,4 +7,4 @@
 - Unlike original wind controller. After let go of the wind totem's orb, the wind will maintain the direction and wind speed for one minute before it game can change it.
 - Wind totem change the base wind magnitude, at farest distance to the totem base, it will set the base magnitude to 18 knots.
   - Gust is not affected by this.
-- Light cannot be turn off. Sorry.
+- Light cannot be turned off.
