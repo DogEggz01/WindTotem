@@ -1,5 +1,6 @@
 # WindTotem
 *Disclaimer: This mod is made with ChatGPT 6.0 Astra*
+
 **This Item is very CHEATY**
 - Add Wind Totem, smaller version of the wind controller on top of the Dead Cove. You can take it onto your ship.
   - Interact with the orb to start using. Orb direction decide wind direction. Orb distance from the totem base decide wind base magnitude.
