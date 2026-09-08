@@ -14,6 +14,10 @@ namespace WindTotem
         private AudioSource orbAudio;
         private Collider orbCollider;
         private bool effectsPlaying;
+        internal Collider PointerCollider => orbCollider;
+        internal bool CanPoint => owner && !owner.held && !held && orbCollider && orbCollider.enabled &&
+            gameObject.activeInHierarchy && !unclickable && owner.gameObject.layer != 5 && owner.gameObject.layer != 26 &&
+            !GameState.currentlyLoading && !GameState.sleeping && !GameState.recovering;
 
         private void Awake()
         {

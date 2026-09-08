@@ -6,7 +6,7 @@ using UnityEngine;
 
 namespace WindTotem
 {
-    [BepInPlugin("DogEggz.WindTotem", "Wind Totem", "1.0.4")]
+    [BepInPlugin("DogEggz.WindTotem", "Wind Totem", "1.0.5")]
     public sealed class WindTotemPlugin : BaseUnityPlugin
     {
         internal const int PrefabIndex = 609;
@@ -74,7 +74,7 @@ namespace WindTotem
                 }
                 patches = new Harmony("DogEggz.WindTotem");
                 patches.PatchAll(typeof(WindTotemPlugin).Assembly);
-                Logger.LogInfo("Wind Totem 1.0.4 loaded; quest 608, totem 609; return quest and 60-second base wind hold active.");
+                Logger.LogInfo("Wind Totem 1.0.5 loaded; quest 608, totem 609; return quest and 60-second base wind hold active.");
             }
             catch (Exception exception)
             {
