@@ -1,5 +1,5 @@
 # WindTotem
-*Disclaimer: This mod is made with ChatGPT 6.0 Astra*
+*Disclaimer: This mod is made with ChatGPT 6.0 Astra and opus 5.5*
 
 **This Item is very CHEATY**
 - Add Wind Totem, smaller version of the wind controller on top of the Dead Cove. You can take it onto your ship.
